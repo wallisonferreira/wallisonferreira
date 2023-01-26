@@ -10,6 +10,10 @@ wallisonferreira/wallisonferreira is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&layout=compact&langs_count=16&theme=dark">
 </div>
+-->
+
+[![Wallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonferreira)](https://github.com/wallisonferreira/github-readme-stats)
