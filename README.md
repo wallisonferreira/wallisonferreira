@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&layout=compact&theme=merko&count_private=true)](https://github.com/wallisonferreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira)](https://github.com/wallisonferreira/github-readme-stats)
+[![Wallison's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira)](https://github.com/wallisonferreira/github-readme-stats)
 
 
