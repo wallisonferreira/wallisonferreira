@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 -->
 
-[![Wallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonferreira)](https://github.com/wallisonferreira/github-readme-stats)
+[![Wallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonferreira&show_icons=true&theme=dark)](https://github.com/wallisonferreira/github-readme-stats)
 
-![Wallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonferreira&show_icons=true&theme=dark)
+
