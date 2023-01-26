@@ -19,4 +19,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira&theme=merko&count_private=true" />
 </a>
 
+<a href="https://github.com/wallisonferreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wallisonferreira&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/wallisonferreira/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wallisonferreira&repo=convoychat" />
+</a>
 
