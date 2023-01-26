@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/wallisonferreira/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&theme=merko&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&theme=merko&count_private=true&layout=compact" />
 </a>
 
 <a href="https://github.com/wallisonferreira/github-readme-stats">
