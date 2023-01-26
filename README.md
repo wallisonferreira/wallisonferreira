@@ -16,4 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 [![Wallison's stats (wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira&theme=merko&count_private=true)](https://github.com/wallisonferreira/github-readme-stats)
 
+<a href="https://github.com/wallisonferreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wallisonferreira&show_icons=true&theme=merko&count_private=true" />
+</a>
+
+<a href="https://github.com/wallisonferreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&layout=compact&theme=merko&count_private=true" />
+</a>
+
 
