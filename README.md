@@ -13,6 +13,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&theme=merko&count_private=true" />
 </a>
 
-[![Wallison's stats (wakatime)](https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira&theme=merko&count_private=true)](https://github.com/wallisonferreira/github-readme-stats)
+<a href="https://github.com/wallisonferreira/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira&theme=merko&count_private=true" />
+</a>
 
 
