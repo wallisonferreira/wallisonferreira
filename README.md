@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Wallison's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonferreira)](https://github.com/wallisonferreira/github-readme-stats)
 
-![Wallison's GitHub stats - Contribs and PR's](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Wallison's GitHub stats - Contribs and PR's](https://github-readme-stats.vercel.app/api?username=wallisonferreira&hide=contribs,prs)
