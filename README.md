@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wallison Ferreira
-- 👨🏾‍🎓 I'm graduated in Information Systems
+- 👨🏾‍🎓 Bachelor's Degree in Information Systems
 - 💻 Interested in learning and developing innovative things
 - 🌱 Currently learning Spring Boot, Node and Angular JS
 - 💞️ I’m looking to collaborate on challenging projects involving NLP and ML in Social Networks
