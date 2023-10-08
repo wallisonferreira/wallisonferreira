@@ -6,5 +6,3 @@
 - 📫 How to reach me: contato.sanfer@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonferreira&layout=donut-vertical)](https://github.com/wallisonferreira/wallisonferreira)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wallisonferreira)](https://github.com/wallisonferreira/wallisonferreira)
